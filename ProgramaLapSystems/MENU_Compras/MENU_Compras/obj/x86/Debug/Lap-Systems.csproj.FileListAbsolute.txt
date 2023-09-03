@@ -1,0 +1,16 @@
+C:\POO\ProgramaLapSystems\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.exe
+C:\POO\ProgramaLapSystems\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.pdb
+C:\POO\ProgramaLapSystems\MENU_Compras\MENU_Compras\bin\Debug\MENU_Compras.exe
+C:\POO\ProgramaLapSystems\MENU_Compras\MENU_Compras\bin\Debug\MENU_Compras.pdb
+C:\POO\ProgramaLapSystems\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.frm_Categorias_subcategorias.resources
+C:\POO\ProgramaLapSystems\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.frm_MenuPrincipal.resources
+C:\POO\ProgramaLapSystems\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.frm_AltaUsuario.resources
+C:\POO\ProgramaLapSystems\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.frm_BajaUsuario.resources
+C:\POO\ProgramaLapSystems\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.frm_GestionUsuarios.resources
+C:\POO\ProgramaLapSystems\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.frm_ModUsuario.resources
+C:\POO\ProgramaLapSystems\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.frm_Personas.resources
+C:\POO\ProgramaLapSystems\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.Modificar_Articulos.resources
+C:\POO\ProgramaLapSystems\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.Properties.Resources.resources
+C:\POO\ProgramaLapSystems\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.Registrar_Compra.resources
+C:\POO\ProgramaLapSystems\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.frm_Registro_de_compras.resources
+C:\POO\ProgramaLapSystems\MENU_Compras\MENU_Compras\obj\x86\Debug\Lap-Systems.csproj.GenerateResource.Cache

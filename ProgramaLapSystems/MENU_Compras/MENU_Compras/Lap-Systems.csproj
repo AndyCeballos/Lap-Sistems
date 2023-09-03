@@ -1,0 +1,262 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{06D96798-86B2-4A89-BB31-46C422364389}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MENU_Compras</RootNamespace>
+    <AssemblyName>MENU_Compras</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ABM.cs" />
+    <Compile Include="Categorias_subcategorias.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Categorias_subcategorias.Designer.cs">
+      <DependentUpon>Categorias_subcategorias.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConexionDB.cs" />
+    <Compile Include="Consultas.cs" />
+    <Compile Include="Diseño.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_AltaUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_AltaUsuario.Designer.cs">
+      <DependentUpon>frm_AltaUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_BajaUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_BajaUsuario.Designer.cs">
+      <DependentUpon>frm_BajaUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_GestionUsuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_GestionUsuarios.Designer.cs">
+      <DependentUpon>frm_GestionUsuarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_ModUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_ModUsuario.Designer.cs">
+      <DependentUpon>frm_ModUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Personas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Personas.Designer.cs">
+      <DependentUpon>frm_Personas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Lap_SystemDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Lap_SystemDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Modificar_Articulos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modificar_Articulos.Designer.cs">
+      <DependentUpon>Modificar_Articulos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Registrar Compra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Registrar Compra.Designer.cs">
+      <DependentUpon>Registrar Compra.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Registro de compras.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Registro de compras.Designer.cs">
+      <DependentUpon>Registro de compras.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Servicio.cs" />
+    <Compile Include="Verificaciones.cs" />
+    <EmbeddedResource Include="Categorias_subcategorias.resx">
+      <DependentUpon>Categorias_subcategorias.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_AltaUsuario.resx">
+      <DependentUpon>frm_AltaUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_BajaUsuario.resx">
+      <DependentUpon>frm_BajaUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_GestionUsuarios.resx">
+      <DependentUpon>frm_GestionUsuarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_ModUsuario.resx">
+      <DependentUpon>frm_ModUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Personas.resx">
+      <DependentUpon>frm_Personas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modificar_Articulos.resx">
+      <DependentUpon>Modificar_Articulos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Registrar Compra.resx">
+      <DependentUpon>Registrar Compra.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Registro de compras.resx">
+      <DependentUpon>Registro de compras.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="ClassDiagram2.cd" />
+    <None Include="Lap_SystemDataSet.xsc">
+      <DependentUpon>Lap_SystemDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Lap_SystemDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Lap_SystemDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Lap_SystemDataSet.xss">
+      <DependentUpon>Lap_SystemDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ABMC_Mesa de trabajo 1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Modif_Mesa de trabajo 1 copia 2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Modif_Mesa de trabajo 1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Modif_Mesa de trabajo 11.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Modif_Mesa de trabajo 12.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Modif_Mesa de trabajo 1 copia 3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pantallaMenu.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WhatsApp Image 2023-06-26 at 00.24.40.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WhatsApp Image 2023-06-26 at 00.32.48 %281%29.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WhatsApp Image 2023-06-26 at 00.32.48.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\usuarioss-03.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WhatsApp Image 2023-06-26 at 01.09.15.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\usuario.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\usuario1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\usuarioss_Mesa de trabajo 1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fondoModif_Mesa de trabajo 1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fondoModif-02.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fondoModif-021.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\usuarioss-04.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Salir32px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fondo_Mesa de trabajo 1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lap system logo1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Currículum moderno y minimalista verde .png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

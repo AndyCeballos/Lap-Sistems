@@ -1,0 +1,117 @@
+C:\POO\MOD1\MENU_Compras\MENU_Compras\bin\Debug\MENU_Compras.exe
+C:\POO\MOD1\MENU_Compras\MENU_Compras\bin\Debug\MENU_Compras.pdb
+C:\POO\MOD1\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.Properties.Resources.resources
+C:\POO\MOD1\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.csproj.GenerateResource.Cache
+C:\POO\MOD1\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.exe
+C:\POO\MOD1\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.pdb
+C:\POO\MOD1\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.Modificar_Articulos.resources
+C:\POO\MOD1\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.Registrar_Compra.resources
+C:\POO\MOD1\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.frm_Categorias_subcategorias.resources
+C:\POO\MOD1\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.csprojResolveAssemblyReference.cache
+C:\POO\MOD1\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.frm_Registro_de_compras.resources
+C:\POO\MOD1\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.frm_MenuPrincipal.resources
+C:\POO\MOD1\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.frm_Personas.resources
+D:\NO BORRAR!\Escritorio\1LAPSYSTEMS\MOD1\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.exe
+D:\NO BORRAR!\Escritorio\1LAPSYSTEMS\MOD1\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.pdb
+D:\NO BORRAR!\Escritorio\1LAPSYSTEMS\MOD1\MENU_Compras\MENU_Compras\bin\Debug\MENU_Compras.exe
+D:\NO BORRAR!\Escritorio\1LAPSYSTEMS\MOD1\MENU_Compras\MENU_Compras\bin\Debug\MENU_Compras.pdb
+D:\NO BORRAR!\Escritorio\1LAPSYSTEMS\MOD1\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.csprojResolveAssemblyReference.cache
+D:\NO BORRAR!\Escritorio\1LAPSYSTEMS\MOD1\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.frm_Categorias_subcategorias.resources
+D:\NO BORRAR!\Escritorio\1LAPSYSTEMS\MOD1\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.frm_MenuPrincipal.resources
+D:\NO BORRAR!\Escritorio\1LAPSYSTEMS\MOD1\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.frm_Personas.resources
+D:\NO BORRAR!\Escritorio\1LAPSYSTEMS\MOD1\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.Modificar_Articulos.resources
+D:\NO BORRAR!\Escritorio\1LAPSYSTEMS\MOD1\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.Properties.Resources.resources
+D:\NO BORRAR!\Escritorio\1LAPSYSTEMS\MOD1\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.Registrar_Compra.resources
+D:\NO BORRAR!\Escritorio\1LAPSYSTEMS\MOD1\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.frm_Registro_de_compras.resources
+D:\NO BORRAR!\Escritorio\1LAPSYSTEMS\MOD1\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.csproj.GenerateResource.Cache
+D:\NO BORRAR!\Escritorio\1LAPSYSTEMS\MOD1\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.frm_GestionUsuarios.resources
+D:\NO BORRAR!\Escritorio\1LAPSYSTEMS\MOD1\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.frm_AltaUsuario.resources
+D:\NO BORRAR!\Escritorio\1LAPSYSTEMS\MOD1\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.frm_BajaUsuario.resources
+D:\NO BORRAR!\Escritorio\1LAPSYSTEMS\MOD1\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.frm_ModUsuario.resources
+D:\NO BORRAR!\Escritorio\1LAPSYSTEMS\ProgramaLapSystems\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.exe
+D:\NO BORRAR!\Escritorio\1LAPSYSTEMS\ProgramaLapSystems\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.pdb
+D:\NO BORRAR!\Escritorio\1LAPSYSTEMS\ProgramaLapSystems\MENU_Compras\MENU_Compras\bin\Debug\MENU_Compras.exe
+D:\NO BORRAR!\Escritorio\1LAPSYSTEMS\ProgramaLapSystems\MENU_Compras\MENU_Compras\bin\Debug\MENU_Compras.pdb
+D:\NO BORRAR!\Escritorio\1LAPSYSTEMS\ProgramaLapSystems\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.csprojResolveAssemblyReference.cache
+D:\NO BORRAR!\Escritorio\1LAPSYSTEMS\ProgramaLapSystems\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.frm_Categorias_subcategorias.resources
+D:\NO BORRAR!\Escritorio\1LAPSYSTEMS\ProgramaLapSystems\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.frm_MenuPrincipal.resources
+D:\NO BORRAR!\Escritorio\1LAPSYSTEMS\ProgramaLapSystems\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.frm_AltaUsuario.resources
+D:\NO BORRAR!\Escritorio\1LAPSYSTEMS\ProgramaLapSystems\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.frm_BajaUsuario.resources
+D:\NO BORRAR!\Escritorio\1LAPSYSTEMS\ProgramaLapSystems\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.frm_GestionUsuarios.resources
+D:\NO BORRAR!\Escritorio\1LAPSYSTEMS\ProgramaLapSystems\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.frm_ModUsuario.resources
+D:\NO BORRAR!\Escritorio\1LAPSYSTEMS\ProgramaLapSystems\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.frm_Personas.resources
+D:\NO BORRAR!\Escritorio\1LAPSYSTEMS\ProgramaLapSystems\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.Modificar_Articulos.resources
+D:\NO BORRAR!\Escritorio\1LAPSYSTEMS\ProgramaLapSystems\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.Properties.Resources.resources
+D:\NO BORRAR!\Escritorio\1LAPSYSTEMS\ProgramaLapSystems\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.Registrar_Compra.resources
+D:\NO BORRAR!\Escritorio\1LAPSYSTEMS\ProgramaLapSystems\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.frm_Registro_de_compras.resources
+D:\NO BORRAR!\Escritorio\1LAPSYSTEMS\ProgramaLapSystems\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.csproj.GenerateResource.Cache
+E:\TRABAJOLAPSYSTEM\ProgramaLapSystems\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.exe
+E:\TRABAJOLAPSYSTEM\ProgramaLapSystems\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.pdb
+E:\TRABAJOLAPSYSTEM\ProgramaLapSystems\MENU_Compras\MENU_Compras\bin\Debug\MENU_Compras.exe
+E:\TRABAJOLAPSYSTEM\ProgramaLapSystems\MENU_Compras\MENU_Compras\bin\Debug\MENU_Compras.pdb
+E:\TRABAJOLAPSYSTEM\ProgramaLapSystems\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.csprojResolveAssemblyReference.cache
+E:\TRABAJOLAPSYSTEM\ProgramaLapSystems\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.frm_Categorias_subcategorias.resources
+E:\TRABAJOLAPSYSTEM\ProgramaLapSystems\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.frm_MenuPrincipal.resources
+E:\TRABAJOLAPSYSTEM\ProgramaLapSystems\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.frm_AltaUsuario.resources
+E:\TRABAJOLAPSYSTEM\ProgramaLapSystems\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.frm_BajaUsuario.resources
+E:\TRABAJOLAPSYSTEM\ProgramaLapSystems\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.frm_GestionUsuarios.resources
+E:\TRABAJOLAPSYSTEM\ProgramaLapSystems\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.frm_ModUsuario.resources
+E:\TRABAJOLAPSYSTEM\ProgramaLapSystems\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.frm_Personas.resources
+E:\TRABAJOLAPSYSTEM\ProgramaLapSystems\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.Modificar_Articulos.resources
+E:\TRABAJOLAPSYSTEM\ProgramaLapSystems\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.Properties.Resources.resources
+E:\TRABAJOLAPSYSTEM\ProgramaLapSystems\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.Registrar_Compra.resources
+E:\TRABAJOLAPSYSTEM\ProgramaLapSystems\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.frm_Registro_de_compras.resources
+E:\TRABAJOLAPSYSTEM\ProgramaLapSystems\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.csproj.GenerateResource.Cache
+C:\Users\germy\Desktop\TRABAJOLAPSYSTEM\ProgramaLapSystems\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.exe
+C:\Users\germy\Desktop\TRABAJOLAPSYSTEM\ProgramaLapSystems\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.pdb
+C:\Users\germy\Desktop\TRABAJOLAPSYSTEM\ProgramaLapSystems\MENU_Compras\MENU_Compras\bin\Debug\MENU_Compras.exe
+C:\Users\germy\Desktop\TRABAJOLAPSYSTEM\ProgramaLapSystems\MENU_Compras\MENU_Compras\bin\Debug\MENU_Compras.pdb
+C:\Users\germy\Desktop\TRABAJOLAPSYSTEM\ProgramaLapSystems\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.csprojResolveAssemblyReference.cache
+C:\Users\germy\Desktop\TRABAJOLAPSYSTEM\ProgramaLapSystems\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.frm_Categorias_subcategorias.resources
+C:\Users\germy\Desktop\TRABAJOLAPSYSTEM\ProgramaLapSystems\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.frm_MenuPrincipal.resources
+C:\Users\germy\Desktop\TRABAJOLAPSYSTEM\ProgramaLapSystems\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.frm_AltaUsuario.resources
+C:\Users\germy\Desktop\TRABAJOLAPSYSTEM\ProgramaLapSystems\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.frm_BajaUsuario.resources
+C:\Users\germy\Desktop\TRABAJOLAPSYSTEM\ProgramaLapSystems\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.frm_GestionUsuarios.resources
+C:\Users\germy\Desktop\TRABAJOLAPSYSTEM\ProgramaLapSystems\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.frm_ModUsuario.resources
+C:\Users\germy\Desktop\TRABAJOLAPSYSTEM\ProgramaLapSystems\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.frm_Personas.resources
+C:\Users\germy\Desktop\TRABAJOLAPSYSTEM\ProgramaLapSystems\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.Modificar_Articulos.resources
+C:\Users\germy\Desktop\TRABAJOLAPSYSTEM\ProgramaLapSystems\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.Properties.Resources.resources
+C:\Users\germy\Desktop\TRABAJOLAPSYSTEM\ProgramaLapSystems\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.Registrar_Compra.resources
+C:\Users\germy\Desktop\TRABAJOLAPSYSTEM\ProgramaLapSystems\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.frm_Registro_de_compras.resources
+C:\Users\germy\Desktop\TRABAJOLAPSYSTEM\ProgramaLapSystems\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.csproj.GenerateResource.Cache
+D:\NO BORRAR!\Escritorio\1LAPSYSTEMS\Programa Actualizado\ProgramaLapSystems\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.exe
+D:\NO BORRAR!\Escritorio\1LAPSYSTEMS\Programa Actualizado\ProgramaLapSystems\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.pdb
+D:\NO BORRAR!\Escritorio\1LAPSYSTEMS\Programa Actualizado\ProgramaLapSystems\MENU_Compras\MENU_Compras\bin\Debug\MENU_Compras.exe
+D:\NO BORRAR!\Escritorio\1LAPSYSTEMS\Programa Actualizado\ProgramaLapSystems\MENU_Compras\MENU_Compras\bin\Debug\MENU_Compras.pdb
+D:\NO BORRAR!\Escritorio\1LAPSYSTEMS\Programa Actualizado\ProgramaLapSystems\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.csprojResolveAssemblyReference.cache
+D:\NO BORRAR!\Escritorio\1LAPSYSTEMS\Programa Actualizado\ProgramaLapSystems\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.frm_Categorias_subcategorias.resources
+D:\NO BORRAR!\Escritorio\1LAPSYSTEMS\Programa Actualizado\ProgramaLapSystems\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.frm_MenuPrincipal.resources
+D:\NO BORRAR!\Escritorio\1LAPSYSTEMS\Programa Actualizado\ProgramaLapSystems\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.frm_AltaUsuario.resources
+D:\NO BORRAR!\Escritorio\1LAPSYSTEMS\Programa Actualizado\ProgramaLapSystems\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.frm_BajaUsuario.resources
+D:\NO BORRAR!\Escritorio\1LAPSYSTEMS\Programa Actualizado\ProgramaLapSystems\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.frm_GestionUsuarios.resources
+D:\NO BORRAR!\Escritorio\1LAPSYSTEMS\Programa Actualizado\ProgramaLapSystems\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.frm_ModUsuario.resources
+D:\NO BORRAR!\Escritorio\1LAPSYSTEMS\Programa Actualizado\ProgramaLapSystems\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.frm_Personas.resources
+D:\NO BORRAR!\Escritorio\1LAPSYSTEMS\Programa Actualizado\ProgramaLapSystems\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.Modificar_Articulos.resources
+D:\NO BORRAR!\Escritorio\1LAPSYSTEMS\Programa Actualizado\ProgramaLapSystems\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.Properties.Resources.resources
+D:\NO BORRAR!\Escritorio\1LAPSYSTEMS\Programa Actualizado\ProgramaLapSystems\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.Registrar_Compra.resources
+D:\NO BORRAR!\Escritorio\1LAPSYSTEMS\Programa Actualizado\ProgramaLapSystems\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.frm_Registro_de_compras.resources
+D:\NO BORRAR!\Escritorio\1LAPSYSTEMS\Programa Actualizado\ProgramaLapSystems\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.csproj.GenerateResource.Cache
+C:\POO\Programa Actualizado\ProgramaLapSystems\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.exe
+C:\POO\Programa Actualizado\ProgramaLapSystems\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.pdb
+C:\POO\Programa Actualizado\ProgramaLapSystems\MENU_Compras\MENU_Compras\bin\Debug\MENU_Compras.exe
+C:\POO\Programa Actualizado\ProgramaLapSystems\MENU_Compras\MENU_Compras\bin\Debug\MENU_Compras.pdb
+C:\POO\Programa Actualizado\ProgramaLapSystems\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.csprojResolveAssemblyReference.cache
+C:\POO\Programa Actualizado\ProgramaLapSystems\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.frm_Categorias_subcategorias.resources
+C:\POO\Programa Actualizado\ProgramaLapSystems\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.frm_MenuPrincipal.resources
+C:\POO\Programa Actualizado\ProgramaLapSystems\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.frm_AltaUsuario.resources
+C:\POO\Programa Actualizado\ProgramaLapSystems\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.frm_BajaUsuario.resources
+C:\POO\Programa Actualizado\ProgramaLapSystems\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.frm_GestionUsuarios.resources
+C:\POO\Programa Actualizado\ProgramaLapSystems\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.frm_ModUsuario.resources
+C:\POO\Programa Actualizado\ProgramaLapSystems\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.frm_Personas.resources
+C:\POO\Programa Actualizado\ProgramaLapSystems\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.Modificar_Articulos.resources
+C:\POO\Programa Actualizado\ProgramaLapSystems\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.Properties.Resources.resources
+C:\POO\Programa Actualizado\ProgramaLapSystems\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.Registrar_Compra.resources
+C:\POO\Programa Actualizado\ProgramaLapSystems\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.frm_Registro_de_compras.resources
+C:\POO\Programa Actualizado\ProgramaLapSystems\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.csproj.GenerateResource.Cache
+C:\POO\ProgramaLapSystems\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.exe
+C:\POO\ProgramaLapSystems\MENU_Compras\MENU_Compras\obj\x86\Debug\MENU_Compras.pdb
